@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "gs2": "github:gs2io/gs2-typescript-sdk",
+    "tslib": "^2.4.0",
+    "ws": "^6.1.4"
+  }
+}
